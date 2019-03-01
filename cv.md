@@ -2,7 +2,8 @@
 
 2.Contacts: +375 29 167 02 62, misiyevich@gmail.com
 
-3.Summary: I want to change my life to better and i do my best for it!
+3.Summary:
+           I want to change my life to better and i do my best for it!
            I graduated Top 10% of my class at Belarusian National Technical University
            at faculty of Power plant construction and engineering services
            at  Heating, air conditioning, gas supply and air protection specialization
@@ -14,10 +15,12 @@
 4.Skills: JavaScript, React+Redux, JQuery, Git, Python+Flask, SQL+phpLiteAdmin, HTML, CSS, C native
 
 5.Code examples:
+
                  https://github.com/diesel167/taskManager
                  https://github.com/diesel167/calendar
 
 6.Experience:
+
               -  Git (regular usage it in my projects)
 
               -  JavaScript+jQuery  (Website with google maps and news, lending pages, Phaser framework (gamedev))
@@ -35,6 +38,7 @@
               -  Python(+Flask), SQL(phpLiteAdmin)  (Shares-trading website , back-end)
 
 7.Education:
+
              -  Belarusian National Technical University, 2016
                 (faculty:Power plant construction and engineering services
                 specialization: Heating, air conditioning, gas supply and air protection ),
