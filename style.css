@@ -1,0 +1,26 @@
+body{
+    padding:0;
+    margin:0;
+    font-family:"Arial",sans-serif;
+}
+
+
+.container{
+    width:100%;
+    max-width:1024px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+    background-color: rgba(233, 249, 45, 0.22);
+}
+
+
+.photo{
+    float:right;
+    width:150px;
+    height:200px;
+    margin:5px;
+    overflow:hidden;
+    background: url("./assets/portrait.jpg") 0 0px;
+    background-size: 105%;
+}
