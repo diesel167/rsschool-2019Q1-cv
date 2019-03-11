@@ -19,6 +19,10 @@ a{
     text-decoration:none;
 }
 
+a:hover{
+    box-shadow:0 0px 5px 0 black;
+}
+
 .photo{
     float:right;
     width:150px;
