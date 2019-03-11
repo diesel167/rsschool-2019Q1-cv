@@ -14,6 +14,10 @@ body{
     background-color: rgba(233, 249, 45, 0.22);
 }
 
+a{
+    color: rgba(23, 174, 0, 0.78);
+    text-decoration:none;
+}
 
 .photo{
     float:right;
@@ -21,6 +25,22 @@ body{
     height:200px;
     margin:5px;
     overflow:hidden;
-    background: url("./assets/portrait.jpg") 0 0px;
+    background: url("./assets/portrait.jpg") 0 0;
     background-size: 105%;
+}
+
+.item-name{
+    width:180px;
+    height:30px;
+    font-weight:bold;
+}
+
+.item h3{
+    margin-bottom:0;
+    padding-bottom:5px;
+}
+
+.item>p{
+    margin-top:0;
+    margin-left:20px;
 }
